@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. John Doe",
+        "email": "john.doe@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Jane Smith",
+        "email": "jane.smith@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Alice Brown",
+        "email": "alice.brown@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Bob Wilson",
+        "email": "bob.wilson@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 5,
+        "name": "Dr. John Doe",
+        "email": "john.doe@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Jane Smith",
+        "email": "jane.smith@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 7,
+        "name": "Dr. Alice Brown",
+        "email": "alice.brown@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 8,
+        "name": "Dr. Bob Wilson",
+        "email": "bob.wilson@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 9,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 10,
+        "name": "Bob Martinez",
+        "email": "bob.martinez@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 11,
+        "name": "Carlos Garcia",
+        "email": "carlos.garcia@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 12,
+        "name": "Diana Lee",
+        "email": "diana.lee@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    },
+    {
+        "id": 13,
+        "name": "Eva Rodriguez",
+        "email": "eva.rodriguez@school.edu",
+        "createdAt": "2026-02-27 12:55:14"
+    }
+]

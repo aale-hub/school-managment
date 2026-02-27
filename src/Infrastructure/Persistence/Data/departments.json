@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Mathematics Department",
+        "code": "MATH",
+        "createdAt": "2026-02-27T11:54:02+01:00"
+    },
+    {
+        "id": 2,
+        "name": "Computer Science Department",
+        "code": "CS",
+        "createdAt": "2026-02-27T11:54:02+01:00"
+    },
+    {
+        "id": 3,
+        "name": "Physics Department",
+        "code": "PHYS",
+        "createdAt": "2026-02-27T11:54:02+01:00"
+    }
+]

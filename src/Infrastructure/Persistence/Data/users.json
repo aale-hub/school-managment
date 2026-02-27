@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "email": "john.smith@school.edu",
+        "createdAt": "2026-02-27 12:42:17"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "email": "jane.doe@school.edu",
+        "createdAt": "2026-02-27 12:42:17"
+    },
+    {
+        "id": 3,
+        "name": "Robert Brown",
+        "email": "robert.brown@school.edu",
+        "createdAt": "2026-02-27 12:42:17"
+    },
+    {
+        "id": 4,
+        "name": "Alice Wilson",
+        "email": "alice.wilson@school.edu",
+        "createdAt": "2026-02-27 12:42:17"
+    },
+    {
+        "id": 5,
+        "name": "Alejandro Beas",
+        "email": "abeasruiz@gmail.com",
+        "createdAt": "2026-02-27 12:42:17"
+    }
+]

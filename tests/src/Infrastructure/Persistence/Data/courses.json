@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Programming",
+        "code": "CS101",
+        "credits": 4,
+        "createdAt": "2026-02-27T12:55:14+01:00"
+    },
+    {
+        "id": 2,
+        "name": "Data Structures",
+        "code": "CS201",
+        "credits": 4,
+        "createdAt": "2026-02-27T12:55:14+01:00"
+    },
+    {
+        "id": 3,
+        "name": "Calculus I",
+        "code": "MATH101",
+        "credits": 4,
+        "createdAt": "2026-02-27T12:55:14+01:00"
+    },
+    {
+        "id": 4,
+        "name": "Physics I",
+        "code": "PHYS101",
+        "credits": 4,
+        "createdAt": "2026-02-27T12:55:14+01:00"
+    },
+    {
+        "id": 5,
+        "name": "Chemistry I",
+        "code": "CHEM101",
+        "credits": 4,
+        "createdAt": "2026-02-27T12:55:14+01:00"
+    },
+    {
+        "id": 6,
+        "name": "Chemistry II",
+        "code": "CHEM201",
+        "credits": 4,
+        "createdAt": "2026-02-27T12:55:14+01:00"
+    }
+]

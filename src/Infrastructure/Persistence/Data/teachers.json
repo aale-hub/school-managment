@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "specialty": "Mathematics",
+        "departmentId": 1,
+        "hiredAt": "2026-02-27 12:42:17"
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "specialty": "Computer Science",
+        "departmentId": 2,
+        "hiredAt": "2026-02-27 12:42:17"
+    }
+]

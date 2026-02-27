@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Mathematics Department",
+        "code": "MATH",
+        "createdAt": "2026-02-27T12:52:03+01:00"
+    },
+    {
+        "id": 2,
+        "name": "Computer Science Department",
+        "code": "CS",
+        "createdAt": "2026-02-27T12:52:03+01:00"
+    },
+    {
+        "id": 3,
+        "name": "Chemistry Department",
+        "code": "CHEM",
+        "createdAt": "2026-02-27T12:52:03+01:00"
+    },
+    {
+        "id": 4,
+        "name": "Biology Department",
+        "code": "BIO",
+        "createdAt": "2026-02-27T12:52:03+01:00"
+    },
+    {
+        "id": 5,
+        "name": "Mathematics Department",
+        "code": "MATH",
+        "createdAt": "2026-02-27T12:54:02+01:00"
+    },
+    {
+        "id": 6,
+        "name": "Computer Science Department",
+        "code": "CS",
+        "createdAt": "2026-02-27T12:54:02+01:00"
+    },
+    {
+        "id": 7,
+        "name": "Chemistry Department",
+        "code": "CHEM",
+        "createdAt": "2026-02-27T12:54:02+01:00"
+    },
+    {
+        "id": 8,
+        "name": "Biology Department",
+        "code": "BIO",
+        "createdAt": "2026-02-27T12:54:02+01:00"
+    }
+]
