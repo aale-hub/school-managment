@@ -1,0 +1,5 @@
+vendor/
+spa-laravel/vendor/
+spa-laravel/.env
+database/school.sqlite
+.DS_Store
