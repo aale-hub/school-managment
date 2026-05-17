@@ -18,7 +18,24 @@
     <a href="{{ route('teachers.index') }}" class="{{ request()->routeIs('teachers.*') ? 'active' : '' }}">Profesores</a>
     <a href="{{ route('subjects.index') }}" class="{{ request()->routeIs('subjects.*') ? 'active' : '' }}">Asignaturas</a>
     <a href="{{ route('departments.index') }}" class="{{ request()->routeIs('departments.*') ? 'active' : '' }}">Departamentos</a>
-    <div class="nav-footer">API: {{ config('api.base_url') }}</div>
+
+    <div class="nav-footer">
+        @auth
+            <div style="display:flex; align-items:center; gap:10px;">
+                @if(Auth::user()->avatar)
+                    <img src="{{ Auth::user()->avatar }}" width="30" height="30" style="border-radius:50%;">
+                @endif
+                <span style="color:#fff; font-size:13px;">{{ Auth::user()->name }}</span>
+                <form action="{{ route('logout') }}" method="POST" style="margin:0;">
+                    @csrf
+                    <button type="submit" style="background:#e74c3c; color:#fff; border:none; padding:5px 12px; border-radius:4px; cursor:pointer; font-size:13px;">
+                        Cerrar sesión
+                    </button>
+                </form>
+            </div>
+        @endauth
+        <div style="font-size:11px; margin-top:5px;">API: {{ config('api.base_url') }}</div>
+    </div>
 </nav>
 
 <div class="main">

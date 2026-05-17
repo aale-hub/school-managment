@@ -3,7 +3,7 @@
         'name' => 'school/management',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '297e18a92fce7c4a7a434c93c086d00ad96e1225',
+        'reference' => '1cb4572e8b625fc461788c7142cca9869dc58dff',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -103,7 +103,7 @@
         'school/management' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '297e18a92fce7c4a7a434c93c086d00ad96e1225',
+            'reference' => '1cb4572e8b625fc461788c7142cca9869dc58dff',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

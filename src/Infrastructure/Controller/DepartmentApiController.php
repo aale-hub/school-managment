@@ -12,7 +12,9 @@ class DepartmentApiController
 {
     public function __construct(
         private readonly DepartmentRepositoryInterface $departmentRepository,
-    ) {}
+    ) {
+        
+    }
 
     public function index(): void
     {
