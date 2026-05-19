@@ -1,0 +1,6 @@
+vendor/
+spa-laravel/vendor/
+spa-laravel/.env
+.git/
+*.md
+tests/
